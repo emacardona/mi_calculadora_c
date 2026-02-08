@@ -7,7 +7,6 @@ int main() {
     char operacion;
 
 cout <<"--- CALCULADORA CON C++ --" <<endl;
-
 cout<<endl;
 
 cout <<"Ingrese el primer numero: ";
